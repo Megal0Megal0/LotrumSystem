@@ -33,6 +33,7 @@ Below is a list of Lore.
 | Wild Animals        | Knowledge of wild animals, their behavior, how to interact with them and how to use resources from them. | +11   |
 | Wild Flora          | Knowledge of wild plants and herbs, how to find them, use them and their cost.                           | +11   |
 | Wilderness Survival | Knowledge of how to survive to in wild terrain.                                                          | +11   |
+
 No matter the situation only **one** Lore bonus is allowed per single skill check.
 
 All Lore your character knows pertains to their home territory or country. 
