@@ -30,7 +30,7 @@ Below is a list of Lore.
 | Urbanism            | Knowledge of how cities function and are constructed.                                                    | +11   |
 | Weaponry            | Knowledge of how weapons are made, used and their cost.                                                  | +11   |
 | Weather             | Knowledge of how weather works.                                                                          | +11   |
-| Wild Animals        | Knowledge of wild animals, their behavior, how to interact with them and how to use resources from them. | +11   |
+| Wild Fauna          | Knowledge of wild animals, their behavior, how to interact with them and how to use resources from them. | +11   |
 | Wild Flora          | Knowledge of wild plants and herbs, how to find them, use them and their cost.                           | +11   |
 | Wilderness Survival | Knowledge of how to survive to in wild terrain.                                                          | +11   |
 

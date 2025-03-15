@@ -8,7 +8,7 @@ Some Arts are reliant on or require specific [[Stats & Skills#Skills\|Skills]].
 
 1. **Dog Fencing**
 Skills: Deception 
-Used with: Non-Heavy, White
+Requirements: Light, White, Free Hand
 
 A lowly and unsightly Art, favored by pirates and thugs, it is not respected.
 
@@ -18,16 +18,21 @@ A lowly and unsightly Art, favored by pirates and thugs, it is not respected.
 
 2. **Turtle Spear**
 Skills: -
-Used with: Spear and Shield  
+Requirements: Spear and Shield  
 
 Standard issue among most soldiers, simple mix of defense and offense.
 
 - +5 [[Defense\|Defense]] 
 - Advantage on attacks performed against enemies your ally/allies already attacked.
 
-For each Step taken in Turtle Spear you gain +2 Defense. Every 5 steps you also gain a Maneuver.
+For every second Step taken in Turtle Spear you gain +2 Defense. Every 5 steps you also gain a Maneuver.
 
 3. Soblostian Arming
- 
- - +7 to Attack
- - 
+
+4. Jumping Tiger
+ Skills: Acrobatics
+ Requirements: 
+  Weapon: White, Light
+  Armor: Light
+
+5. 
