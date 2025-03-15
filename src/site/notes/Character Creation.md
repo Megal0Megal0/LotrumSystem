@@ -34,6 +34,7 @@ You are afforded 5 Special Points, they can be spent accordingly:
 |   Learn random [[Words of Edict\|Word of Edict]]   |         1          |
 | Learn random [[Words of Element\|Word of Element]] |         1          |
 |            Learn a chosen [[Arts\|Art]]            |         1          |
+|              Move in an Art by 1 step              |         1          |
 
 
 
